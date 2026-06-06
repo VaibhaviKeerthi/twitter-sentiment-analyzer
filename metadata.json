@@ -1,0 +1,6 @@
+{
+  "name": "Twitter Sentiment Analyzer",
+  "description": "An interactive natural language processing (NLP) tool to analyze and visualize the sentiment of tweets in real-time, matching lexical lexicon methods with advanced LLM analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
